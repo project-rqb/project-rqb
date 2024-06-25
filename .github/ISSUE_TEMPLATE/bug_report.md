@@ -1,0 +1,27 @@
+---
+name: bug_report
+about: This file is used as a markdown issue template.
+title: ''
+labels: ''
+assignees: ''
+
+---
+
+---
+name: Bug report
+about: 不具合
+title: "【fix】"
+labels: fix
+assignees: topi0247
+
+---
+
+## 概要
+
+## 再現方法
+
+## 修正案
+
+## 補足
+
+## 参考
